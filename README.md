@@ -61,10 +61,6 @@ Edit or delete records using the respective buttons.
 
 Click "Plot Monthly Expenses" to generate a pie chart.
 
-Screenshots
-
-(Add relevant screenshots of the application interface and features here.)
-
 Known Issues
 
 Ensure that all required fields are filled before adding an expense.
@@ -87,11 +83,4 @@ License
 
 This project is licensed under the MIT License.
 
-Contributing
-
-If you would like to contribute, feel free to fork the repository and submit a pull request with improvements.
-
-Contact
-
-For any queries, please reach out via [your-email@example.com].
 
